@@ -1,6 +1,6 @@
 ### WelCome To My Github 👋
 
-### Name : Donggyu Kim 🙍🏻‍♂️ 
+### Name : Donggyu Kim 🙋‍♂️🏻‍♂️ 
 ### Gender : ♂️
 ### Age : 1998 - 08 - 12 
 
