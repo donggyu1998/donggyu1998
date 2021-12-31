@@ -3,7 +3,7 @@
 ##### Gender : Male
 ##### Age : 1998 - 08 - 12 (25)
 ##### Company : Jarasoft ( Software Developer )
-> Main Stack
+> __Main Stack__
 
 <!--
 **donggyu1998/donggyu1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
