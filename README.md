@@ -13,4 +13,4 @@ Email : ehdrbsla12000@gmail.com
 > __Sub Stack__ ✨
 
 
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Firebase-0E85CD?style=for-the-badge&logo=Firebase&logoColor=black"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=black"> 
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-0E85CD?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> 
