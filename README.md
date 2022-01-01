@@ -1,4 +1,4 @@
-# WelCome To My Github 👋
+## WelCome To My Github 👋
 
 > __Introduce__ ☺
 ```
@@ -6,6 +6,9 @@ Name : Donggyu Kim
 Gender : Male
 Age : 1998 - 08 - 12 (25)
 Email : ehdrbsla12000@gmail.com
+Blog : https://donggyu.tistory.com
+GitHub Pages : https://donggyu1998.github.io
+
 ```
 > __Main Stack__ ✨
 
