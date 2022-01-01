@@ -7,7 +7,6 @@ Gender : Male
 Age : 1998 - 08 - 12 (25)
 Email : ehdrbsla12000@gmail.com
 ```
-___
 > __Main Stack__ ✨
 
 
